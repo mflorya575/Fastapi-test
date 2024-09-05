@@ -1,0 +1,73 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="pip-24.0" />
+            <item index="1" class="java.lang.String" itemvalue="Pillow-10.2.0" />
+            <item index="2" class="java.lang.String" itemvalue="greenlet" />
+            <item index="3" class="java.lang.String" itemvalue="cffi" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="situation_center.main.views.news" />
+          <option value="situation_center.news.utils.news" />
+          <option value="situation_center.news.sitemaps.nathprojects" />
+          <option value="situation_center.api.views.nathprojects" />
+          <option value="situation_center.api.serializers.nathprojects" />
+          <option value="situation_center.api.serializers.Hospital" />
+          <option value="situation_center.api.views.Hospital" />
+          <option value="situation_center.api.views.operdata" />
+          <option value="situation_center.api.views.yeardata" />
+          <option value="situation_center.api.views.Study" />
+          <option value="situation_center.api.serializers.operdata" />
+          <option value="situation_center.api.serializers.yeardata" />
+          <option value="situation_center.api.serializers.Study" />
+          <option value="situation_center.api.serializers.Demographics" />
+          <option value="situation_center.api.urls.DemographicsDetailAPIView" />
+          <option value="situation_center.api.views.Demographics" />
+          <option value="situation_center.api.urls.CultureDetailAPIView" />
+          <option value="situation_center.api.serializers.Culture" />
+          <option value="situation_center.api.views.Culture" />
+          <option value="situation_center.api.serializers.Road" />
+          <option value="situation_center.api.urls.RoadDetailAPIView" />
+          <option value="situation_center.api.views.Road" />
+          <option value="situation_center.api.serializers.Science" />
+          <option value="situation_center.api.views.Science" />
+          <option value="situation_center.api.serializers.Ecology" />
+          <option value="situation_center.api.views.Ecology" />
+          <option value="situation_center.api.serializers.Business" />
+          <option value="situation_center.api.views.Business" />
+          <option value="situation_center.api.serializers.Turism" />
+          <option value="situation_center.api.serializers.House" />
+          <option value="situation_center.api.views.House" />
+          <option value="situation_center.api.serializers.World" />
+          <option value="situation_center.api.views.World" />
+          <option value="situation_center.api.serializers.Labour" />
+          <option value="situation_center.api.views.Labour" />
+          <option value="situation_center.api.views.Atom" />
+          <option value="situation_center.api.serializers.Atom" />
+          <option value="situation_center.api.serializers.Econom" />
+          <option value="situation_center.api.serializers.Mainline" />
+          <option value="situation_center.api.views.Mainline" />
+          <option value="situation_center.api.views.Econom" />
+          <option value="app.migrations.env.DATABASE_URL" />
+          <option value="situation_center.situation_center.urls.news" />
+          <option value="situation_center.activeforecast.views.foresttrees" />
+          <option value="situation_center.activeforecast.views.Hospital" />
+          <option value="situation_center.activeforecast.forms.foresttrees" />
+          <option value="situation_center.activeforecast.forms.Hospital" />
+          <option value="situation_center.ai.views.foresttrees" />
+          <option value="situation_center.ai.views.Hospital" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
